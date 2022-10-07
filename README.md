@@ -2,4 +2,4 @@
 
 Приложение для мотивации на учебу с таймером
 
-Посмотреть: 
+Посмотреть: https://klimsupermachine.github.io/Motivator_app/
